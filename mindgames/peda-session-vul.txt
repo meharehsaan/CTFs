@@ -1,2 +1,0 @@
-break set_highscore_name
-
