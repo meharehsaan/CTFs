@@ -1,3 +1,9 @@
+### Mindgames 1336 1337 1338 challenge
+
+- use libc.so.6 for calculating offsets
+
+Get help from here about byapssing vuln function calling logic =  https://ctftime.org/writeup/23789
+
 - Imports necessary modules such as re, datetime, ctypes, and pwn.
 - Sets up the binary and context, specifying architecture, log level, terminal, etc.
 - Establishes a connection with the remote target mindgames.secenv on port 1336, 1337, 1338
